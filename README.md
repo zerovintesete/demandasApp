@@ -1,2 +1,0 @@
-# demandasApp
-Aplicativo de demandas.
